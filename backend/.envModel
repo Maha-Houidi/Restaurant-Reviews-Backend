@@ -1,0 +1,3 @@
+RESTREVIEWS_DB_URI= link-of-the-cluster-you-created-on-mongodb-atlas
+RESTREVIEWS_NS= sample_restaurants
+PORT= port (5000)
